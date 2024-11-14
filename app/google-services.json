@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1072935393626",
+    "firebase_url": "https://prueba-api-7fjm-default-rtdb.firebaseio.com",
+    "project_id": "prueba-api-7fjm",
+    "storage_bucket": "prueba-api-7fjm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072935393626:android:ea66f14ebd61ed6b75fb63",
+        "android_client_info": {
+          "package_name": "com.example.proyecto012"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDak7a0WJefTr4gnLeilVls08y9cRDNVfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072935393626:android:23fe78cdaf3cb98875fb63",
+        "android_client_info": {
+          "package_name": "com.example.proyecto013"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDak7a0WJefTr4gnLeilVls08y9cRDNVfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
